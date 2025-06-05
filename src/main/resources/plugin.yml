@@ -1,0 +1,6 @@
+name: InventoryNotifier
+version: '1.0'
+main: com.zayatv.inventoryNotifier.InventoryNotifier
+api-version: '1.21'
+authors: [ ZayaTV ]
+description: An Inventory Event System Library
